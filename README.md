@@ -1,2 +1,3 @@
 # Hello-world
-sample repository
+Hi, I'm Rameshwar
+I'm interested in python and machine learning
